@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Hamidan, a Computer Engineering student and aspiring Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13"/> <b>Ibb, Yemen</b>. Currently, I'm focusing on <b>C# & ASP.NET Core backend</b> and <b>Angular frontend</b>, while also exploring <b>C++</b> for learning advanced programming and algorithms.</p>
+<p>Welcome to my page! </br> I'm Mohammed, a Computer Engineering student and aspiring Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13"/> <b>Ibb, Yemen</b>. Currently, I'm focusing on <b>C# & ASP.NET Core backend</b> and <b>Angular frontend</b>, while also exploring <b>C++</b> for learning advanced programming and algorithms.</p>
 
 <h3>Things I code with</h3>
 <p>
